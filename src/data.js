@@ -168,6 +168,28 @@ module.exports = [
       'Teacher',
     ],
   },
+   {
+    name: "Susnata Goswami",
+    description: " 20 | Web Developer | AI Enthusiast ",
+    url: "susnatagoswami.netlify.app/uses/",
+    twitter: "@susnatoww",
+    emoji: "🚀",
+    country: "🇮🇳",
+    computer: "windows",
+    phone: "android",
+    tags: [
+      "CSS",
+      "Front End",
+      "Developer",
+      "Full Stack",
+      "HTML",
+      "JavaScript",
+      "Photoshop",
+      "React",
+      "Premiere Pro",
+      "GitHub",
+    ],
+  },
   {
     name: 'Devansh Bajaj',
     description:
